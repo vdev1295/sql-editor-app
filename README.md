@@ -41,6 +41,12 @@ I have taken great care to optimize the performance of SQL Editor App, ensuring 
 
 I have rigorously assessed the app's performance using various tools, including Google's Lighthouse and Page Speed Insights. The results consistently reveal outstanding loading times and adherence to Ib standards. Notably, the page achieve an impressive time to interactivity of just **0.5 seconds** on laptop browsers.
 
+**Mobile Report**
+![App Screenshot](https://sql-editor-app.vercel.app/screenshots/mobile.png)
+
+**Desktop Report**
+![App Screenshot](https://sql-editor-app.vercel.app/screenshots/desktop.png)
+
 ### Optimization Strategies
 
 To guarantee a seamless user experience, I have implemented the following strategies:
