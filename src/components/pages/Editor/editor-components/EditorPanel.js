@@ -85,7 +85,7 @@ const EditorPanel = () => {
   return (
     <div className="flex md:flex-col mt-4 md:mt-0">
       <button
-        className="w-[149px] flex justify-center items-center cursor-pointer ml-8 rounded-md bg-indigo-600 px-3 py-2 text-[0.8125rem] font-semibold leading-5 text-white hover:bg-indigo-500"
+        className="w-[149px] flex justify-center items-center cursor-pointer lg:ml-8 rounded-md bg-indigo-600 px-3 py-2 text-[0.8125rem] font-semibold leading-5 text-white hover:bg-indigo-500"
         onClick={() => runQuery()}
       >
         <span className="fa fa-play me-1"></span>Run
