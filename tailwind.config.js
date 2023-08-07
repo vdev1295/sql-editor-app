@@ -45,11 +45,6 @@ module.exports = {
         "grey-800": "#424242",
         "grey-900": "#212121",
       },
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(tw-gradient-stops))",
-      },
     },
   },
   plugins: [],
